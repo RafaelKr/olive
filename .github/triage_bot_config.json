@@ -1,0 +1,9 @@
+{
+  "commit_hash": {
+    "commits_api_params": {
+      "per_page": "10",
+      "since_in_days": "30"
+    }
+  }
+}
+
