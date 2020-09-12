@@ -1,8 +1,8 @@
 {
-  "commit_hash": {
+  "commit_hash_validation": {
     "commits_api_params": {
-      "per_page": "10",
-      "since_in_days": "30"
+      "per_page": 10,
+      "since_in_days": 30
     }
   }
 }
