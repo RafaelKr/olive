@@ -1,5 +1,7 @@
 {
   "validate_commit_hash": {
+    "hash_opening_tag": "<!-- HASH -->",
+    "hash_closing_tag": "<!-- /HASH -->",
     "label": "recent-commit",
     "commits_api_params": {
       "per_page": 10,
