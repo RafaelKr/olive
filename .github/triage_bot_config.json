@@ -1,5 +1,6 @@
 {
-  "commit_hash_validation": {
+  "validate_commit_hash": {
+    "label": "recent-commit",
     "commits_api_params": {
       "per_page": 10,
       "since_in_days": 30
